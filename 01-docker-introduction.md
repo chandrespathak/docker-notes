@@ -22,4 +22,12 @@ What is Docker Image ?
 What is Doctor container ?
 - actually start the application
 
+Docker vs Virtual Machine
 
+OS Kernel - Applications run on Kernal layer
+- Docto virtualizes the application layer 
+- Host OS kernel
+- Docker images are much smaller
+- Docker containers start much faster
+- VM of any OS can run on any os host
+- Linux Docker image can not run in windows os, but we can use Docker toolbox is required
