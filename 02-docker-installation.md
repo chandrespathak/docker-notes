@@ -1,4 +1,5 @@
 - Choose the correct OS
 - Check prerequisites
 - Check if Virtualization enabled or not
+- Uninstall old versions (if required)
 - 
