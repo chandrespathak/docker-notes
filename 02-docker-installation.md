@@ -1,1 +1,4 @@
-
+- Choose the correct OS
+- Check prerequisites
+- Check if Virtualization enabled or not
+- 
